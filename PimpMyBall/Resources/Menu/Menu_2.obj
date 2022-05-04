@@ -1,0 +1,21 @@
+# This file uses centimeters as units for non-parametric coordinates.
+
+mtllib Menu_2.mtl
+g default
+v -62.949020 11.868670 0.000000
+v -20.976181 11.868670 0.000000
+v -62.949020 -11.868670 -0.000000
+v -20.976181 -11.868670 -0.000000
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 0.000000 1.000000
+vt 1.000000 1.000000
+vn 0.000000 0.000000 -1.000000
+vn 0.000000 0.000000 -1.000000
+vn 0.000000 0.000000 -1.000000
+vn 0.000000 0.000000 -1.000000
+s 1
+g pasted__pasted__pPlane1 pasted__group5 group6
+usemtl pasted__shadingMap2SG
+f 1/1/1 2/2/2 3/3/3
+f 3/3/3 2/2/2 4/4/4
